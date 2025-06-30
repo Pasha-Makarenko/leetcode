@@ -1,0 +1,26 @@
+name: Lint
+
+on: [ push ]
+
+jobs:
+  rust-lint:
+    name: Rust Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Rust
+        uses: rustup update stable && rustup default stable
+
+      - name: Install format
+        run: rustup component add rustfmt
+
+      - name: Run Rustfmt
+        run: cargo fmt --all -- --check
+
+      - name: Install Clippy
+        run: rustup component add clippy
+
+      - name: Run Clippy
+        run: cargo clippy --all-targets --all-features -- -D warnings
