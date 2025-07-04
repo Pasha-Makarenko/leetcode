@@ -1,3 +1,4 @@
+mod find_the_kth_character_in_string_game_ii;
 mod find_the_original_typed_string_ii;
 mod median_of_two_arrays;
 mod merge_k_sorted_lists;
