@@ -1,4 +1,4 @@
-mod find_the_kth_character_is_string_game_i;
-mod find_the_origin_typed_string;
+mod find_the_kth_character_in_string_game_i;
+mod find_the_original_typed_string_i;
 mod longest_harmonious_subsequence;
 mod two_sum;
