@@ -2,5 +2,6 @@ mod add_two_numbers;
 mod finding_pairs_with_a_certian_sum;
 mod longest_palindromic_substring;
 mod longest_substring;
+mod maximum_number_of_events_that_can_be_attended;
 mod reverse_integer;
 mod zigzag_conversion;
