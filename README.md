@@ -2,7 +2,7 @@
 
 ![LeetCode Profile](https://leetcode.com/u/pashamakarenko/)
 
-Welcome to my LeetCode solutions repository! I solve algorithmic problems primarily using Rusе.
+Welcome to my LeetCode solutions repository! I solve algorithmic problems primarily using `Rust`.
 
 ## 📊 Progress Tracking
 
