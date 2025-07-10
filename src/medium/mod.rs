@@ -4,5 +4,6 @@ mod longest_palindromic_substring;
 mod longest_substring;
 mod maximum_number_of_events_that_can_be_attended;
 mod reschedule_meetings_for_maximum_free_time_i;
+mod reschedule_meetings_for_maximum_free_time_ii;
 mod reverse_integer;
 mod zigzag_conversion;
