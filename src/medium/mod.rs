@@ -2,6 +2,7 @@ mod add_two_numbers;
 mod finding_pairs_with_a_certian_sum;
 mod longest_palindromic_substring;
 mod longest_substring;
+mod maximum_matching_of_players_with_trainers;
 mod maximum_number_of_events_that_can_be_attended;
 mod reschedule_meetings_for_maximum_free_time_i;
 mod reschedule_meetings_for_maximum_free_time_ii;
