@@ -8,5 +8,6 @@ mod n_queens;
 mod n_queens_ii;
 mod regular_expression_matching;
 mod reverse_node_in_k_group;
+mod text_justification;
 mod the_earliest_and_latest_rounds_where_players_compete;
 mod trapping_rain_water;
