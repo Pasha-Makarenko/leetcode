@@ -4,6 +4,7 @@ mod maximum_number_of_events_that_can_be_attended_ii;
 mod median_of_two_arrays;
 mod meeting_rooms_iii;
 mod merge_k_sorted_lists;
+mod minimum_difference_in_sums_after_removal_of_elements;
 mod n_queens;
 mod n_queens_ii;
 mod regular_expression_matching;
