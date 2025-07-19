@@ -6,6 +6,7 @@ mod longest_palindromic_substring;
 mod longest_substring;
 mod maximum_matching_of_players_with_trainers;
 mod maximum_number_of_events_that_can_be_attended;
+mod remove_sub_folders_from_the_filesystem;
 mod reschedule_meetings_for_maximum_free_time_i;
 mod reschedule_meetings_for_maximum_free_time_ii;
 mod reverse_integer;
