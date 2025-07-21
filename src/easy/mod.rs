@@ -1,4 +1,5 @@
 mod convert_binary_number_in_a_linked_list_to_integer;
+mod delete_characters_to_make_fancy_string;
 mod find_lucky_integer_in_an_array;
 mod find_the_kth_character_in_string_game_i;
 mod find_the_original_typed_string_i;
