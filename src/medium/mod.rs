@@ -4,6 +4,7 @@ mod find_the_maximum_length_of_valid_subsequence_ii;
 mod finding_pairs_with_a_certian_sum;
 mod longest_palindromic_substring;
 mod longest_substring;
+mod maximum_erasure_value;
 mod maximum_matching_of_players_with_trainers;
 mod maximum_number_of_events_that_can_be_attended;
 mod remove_sub_folders_from_the_filesystem;
