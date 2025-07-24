@@ -6,6 +6,7 @@ mod median_of_two_arrays;
 mod meeting_rooms_iii;
 mod merge_k_sorted_lists;
 mod minimum_difference_in_sums_after_removal_of_elements;
+mod minimum_score_after_removals_on_a_tree;
 mod n_queens;
 mod n_queens_ii;
 mod regular_expression_matching;
