@@ -1,6 +1,7 @@
 mod delete_duplicate_folders_in_system;
 mod find_the_kth_character_in_string_game_ii;
 mod find_the_original_typed_string_ii;
+mod maximize_subarrays_after_removing_one_conflicting_pair;
 mod maximum_number_of_events_that_can_be_attended_ii;
 mod median_of_two_arrays;
 mod meeting_rooms_iii;
