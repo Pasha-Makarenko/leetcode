@@ -13,4 +13,5 @@ mod remove_sub_folders_from_the_filesystem;
 mod reschedule_meetings_for_maximum_free_time_i;
 mod reschedule_meetings_for_maximum_free_time_ii;
 mod reverse_integer;
+mod smallest_subarrays_with_maximum_bitwise_or;
 mod zigzag_conversion;
