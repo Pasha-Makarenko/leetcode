@@ -1,4 +1,5 @@
 mod add_two_numbers;
+mod bitwise_ors_of_subarrays;
 mod count_number_of_maximum_bitwise_or_subsets;
 mod find_the_maximum_length_of_valid_subsequence_i;
 mod find_the_maximum_length_of_valid_subsequence_ii;
