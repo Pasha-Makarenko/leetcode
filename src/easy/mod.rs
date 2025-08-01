@@ -7,5 +7,6 @@ mod find_the_original_typed_string_i;
 mod longest_harmonious_subsequence;
 mod maximum_unique_subarray_sum_after_deletion;
 mod palindrome_number;
+mod pascals_triangle;
 mod two_sum;
 mod valid_word;
