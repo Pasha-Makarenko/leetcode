@@ -11,6 +11,7 @@ mod minimum_score_after_removals_on_a_tree;
 mod n_queens;
 mod n_queens_ii;
 mod number_of_digit_one;
+mod perfect_rectangle;
 mod regular_expression_matching;
 mod reverse_node_in_k_group;
 mod text_justification;
