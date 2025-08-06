@@ -5,6 +5,7 @@ mod find_the_maximum_length_of_valid_subsequence_i;
 mod find_the_maximum_length_of_valid_subsequence_ii;
 mod finding_pairs_with_a_certian_sum;
 mod fruit_into_baskets;
+mod fruits_into_baskets_ii;
 mod fruits_into_baskets_iii;
 mod longest_palindromic_substring;
 mod longest_subarray_with_maximum_bitwise_and;
