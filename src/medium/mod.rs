@@ -14,6 +14,7 @@ mod maximum_erasure_value;
 mod maximum_matching_of_players_with_trainers;
 mod maximum_number_of_events_that_can_be_attended;
 mod maximum_score_from_removing_substrings;
+mod permutations_ii;
 mod remove_sub_folders_from_the_filesystem;
 mod reschedule_meetings_for_maximum_free_time_i;
 mod reschedule_meetings_for_maximum_free_time_ii;
