@@ -16,6 +16,7 @@ mod maximum_number_of_events_that_can_be_attended;
 mod maximum_score_from_removing_substrings;
 mod permutations_ii;
 mod remove_sub_folders_from_the_filesystem;
+mod reordered_power_of_2;
 mod reschedule_meetings_for_maximum_free_time_i;
 mod reschedule_meetings_for_maximum_free_time_ii;
 mod reverse_integer;
