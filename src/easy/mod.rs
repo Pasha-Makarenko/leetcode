@@ -10,6 +10,7 @@ mod longest_harmonious_subsequence;
 mod maximum_unique_subarray_sum_after_deletion;
 mod palindrome_number;
 mod pascals_triangle;
+mod power_of_four;
 mod power_of_three;
 mod power_of_two;
 mod two_sum;
