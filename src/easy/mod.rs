@@ -8,6 +8,7 @@ mod flip_square_submatrix_vertically;
 mod fruits_into_baskets_ii;
 mod largest_3_same_digit_number_in_string;
 mod longest_harmonious_subsequence;
+mod maximum_69_number;
 mod maximum_unique_subarray_sum_after_deletion;
 mod palindrome_number;
 mod pascals_triangle;
