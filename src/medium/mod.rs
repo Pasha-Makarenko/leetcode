@@ -13,6 +13,7 @@ mod maximum_erasure_value;
 mod maximum_matching_of_players_with_trainers;
 mod maximum_number_of_events_that_can_be_attended;
 mod maximum_score_from_removing_substrings;
+mod new_21_game;
 mod permutations_ii;
 mod range_product_queries_of_powers;
 mod remove_sub_folders_from_the_filesystem;
