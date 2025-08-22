@@ -4,6 +4,7 @@ mod count_number_of_maximum_bitwise_or_subsets;
 mod count_square_submatrices_with_all_ones;
 mod find_the_maximum_length_of_valid_subsequence_i;
 mod find_the_maximum_length_of_valid_subsequence_ii;
+mod find_the_minimum_area_to_cover_all_ones_i;
 mod finding_pairs_with_a_certian_sum;
 mod fruit_into_baskets;
 mod fruits_into_baskets_iii;
