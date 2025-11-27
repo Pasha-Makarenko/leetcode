@@ -26,5 +26,6 @@ mod reschedule_meetings_for_maximum_free_time_ii;
 mod reverse_integer;
 mod smallest_subarrays_with_maximum_bitwise_or;
 mod soup_servings;
+mod string_compression_iii;
 mod ways_to_express_an_integer_as_sum_of_powers;
 mod zigzag_conversion;
